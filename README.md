@@ -3,7 +3,7 @@ Following repository contains solution for the coding challenge for the position
 
 
 # 
-Q1_fetch.pdf file comtains the Relational Data Model 
+Q1_fetch.pdf file contains the Relational Data Model 
 
 # 
 FetchDataWrangling.ipynb file cotinas python code to convert unstructured json data into stuctured format. The script outputs structured data in MySQL database
